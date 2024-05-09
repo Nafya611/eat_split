@@ -1,3 +1,16 @@
+# Eat and Split
+
+Eat and Split is a simple web application that helps you calculate the fair split of a restaurant bill among friends. It allows you to enter the total bill amount,  and then calculates the equal share for each person, displays the result.
+
+## Features
+
+- Calculate fair split of a restaurant bill among friends.
+- Include an optional tip amount in the calculation.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
